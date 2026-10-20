@@ -1,0 +1,7 @@
+# Gizli bilgiler: ASLA GitHub'a gitmesin
+.env
+*.pem
+
+# Log ve yedek dosyaları
+*.log
+*.yedek
