@@ -58,3 +58,8 @@ Servis izlemeyi otomatik çalıştırmak için (`sudo crontab -e`):
 ## Kullanılan teknikler
 
 Bash · systemctl · ufw · cron · heredoc · log fonksiyonu (`tee -a`) · çıkış kodları ile hata yönetimi
+
+## Yazar
+
+Tarık Gökçe · Bilgisayar Mühendisliği
+
